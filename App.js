@@ -12,7 +12,7 @@ export default function App() {
     item_variant: 'black',
     item_brand: 'Google',
     price: 9.99,
-    item_color: 'blue' // The item-scoped custom parameter
+    item_color: 'blue' // The item-scoped custom paramete
   };
 
   const params3 = {
